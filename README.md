@@ -1,1 +1,7 @@
-# myfirstrepository
+# Readme
+
+## 1. 使い方
+
+## 2. ライセンス
+
+## 3. 開発者一覧
